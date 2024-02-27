@@ -14,7 +14,7 @@ interface AthleteStats {
 
 const clientId = "121762";
 const clientSecret = "9cc85ab3c82a68efe379aa7c996ecb4ff3c3c190";
-const redirectUri = "http://localhost:3000";
+const redirectUri = "https://strava-app-next.vercel.app";
 const scope = "read_all";
 
 // const token = localStorage.getItem('accessToken');
